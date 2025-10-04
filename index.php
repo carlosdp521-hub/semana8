@@ -123,7 +123,7 @@
             <a href="index.php">Inicio</a>
             <a href="contenido_empresa/nosotros.php">Nosotros</a>
             <a href="contenido_empresa/servicios.php">Servicios</a>
-            <a href="contenido_empresa/contacto.php">Contacto</a>
+            <a href="contenido_empresa/contacto/contacto.php">Contacto</a>
         </nav>
     </header>
 
